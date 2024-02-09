@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tech-react/static/css/main.14da3998.css",
+    "main.js": "/Tech-react/static/js/main.e8e2f291.js",
+    "static/js/592.4d2c436b.chunk.js": "/Tech-react/static/js/592.4d2c436b.chunk.js",
+    "index.html": "/Tech-react/index.html",
+    "main.14da3998.css.map": "/Tech-react/static/css/main.14da3998.css.map",
+    "main.e8e2f291.js.map": "/Tech-react/static/js/main.e8e2f291.js.map",
+    "592.4d2c436b.chunk.js.map": "/Tech-react/static/js/592.4d2c436b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14da3998.css",
+    "static/js/main.e8e2f291.js"
+  ]
+}
